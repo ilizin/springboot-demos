@@ -10,7 +10,7 @@
                 ||     ||
 </pre>
 
-# springboot-demos🍃
+# 🍃springboot-demos
 
 As part of my career path, I've been using spring and spring boot plenty of time, and I'm amazed from how easy is to write
 a complete application and how much code (and time) you can save compared with a traditional J2EE application.
