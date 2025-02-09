@@ -12,7 +12,7 @@
 
 # 🍃springboot-demos
 
-As part of my career path, I've been using spring and spring boot plenty of time, and I'm amazed from how easy is to write
+As part of my career path, I've been using *spring* and its extension *spring boot* plenty of time, and I'm amazed from how easy is to write
 a complete application and how much code (and time) you can save compared with a traditional J2EE application.
 
 The goal of this didactic repo is to provide a set of projects to demonstrate the use of this powerful framework covering
