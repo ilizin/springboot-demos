@@ -18,6 +18,7 @@
 
     <modules>
         <module>../api-rest-demo</module>
+        <module>../jpa-h2-demo</module>
     </modules>
 
 </project>
