@@ -1,4 +1,5 @@
 <pre>
+ilizin@ilizin:~/repos/api-rest-demo$ cat src/main/resources/banner.txt 
  ________________________________________
 / Hi,                                    \
 \   I'm a springboot lover and you?      /
@@ -8,6 +9,7 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+ilizin@ilizin:~/repos/api-rest-demo$
 </pre>
 
 # 🍃springboot-demos
