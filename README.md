@@ -1,4 +1,3 @@
-<div>
 <pre>
  ________________________________________
 / Hi,                                    \
@@ -10,7 +9,7 @@
                 ||----w |
                 ||     ||
 </pre>
-</div>
+
 # springboot-demos
 
 As part of my career path, I've been using spring and spring boot plenty of time, and I'm amazed from how easy is to write
