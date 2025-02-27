@@ -19,6 +19,7 @@
     <modules>
         <module>../api-rest-demo</module>
         <module>../jpa-h2-demo</module>
+        <module>../api-rest-with-jpa-demo</module>
     </modules>
 
 </project>
