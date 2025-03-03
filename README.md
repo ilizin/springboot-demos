@@ -37,7 +37,8 @@ public class SqrtEroneService implements SqrtService {
 
 The repo is the parent project for several springboot demo projects organized by topic:
 
-|  Repository   |                                   Description                                   |                                    Github link                                     |
-|:-------------:|:-------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
-| api-rest-demo | Check how easy is to set up an api rest with the powerful springboot framework. | [https://github.com/ilizin/api-rest-demo](https://github.com/ilizin/api-rest-demo) |
-|  jpa-h2-demo  |                         A CRUD Jpa (h2) demo project.                           |   [https://github.com/ilizin/jpa-h2-demo](https://github.com/ilizin/jpa-h2-demo)   |
+|       Repository        |                        Description                         |                                             Github link                                              |
+|:-----------------------:|:----------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+|      api-rest-demo      | A demo project for setting up an api rest with Spring Boot |          [https://github.com/ilizin/api-rest-demo](https://github.com/ilizin/api-rest-demo)          |
+|       jpa-h2-demo       |           A CRUD Jpa/hibernate (h2) demo project           |           [https://github.com/ilizin/jpa-h2-demo](https://github.com/ilizin/jpa-h2-demo)             |
+| api-rest-with-jpa-demo  |    A CRUD API rest with Jpa/hibernate (h2) demo project    | [https://github.com/ilizin/api-rest-with-jpa-demo](https://github.com/ilizin/api-rest-with-jpa-demo) |
