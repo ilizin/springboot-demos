@@ -37,8 +37,9 @@ public class SqrtEroneService implements SqrtService {
 
 The repo is the parent project for several springboot demo projects organized by topic:
 
-|       Repository        |                        Description                         |                                             Github link                                              |
-|:-----------------------:|:----------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-|      api-rest-demo      | A demo project for setting up an api rest with Spring Boot |          [https://github.com/ilizin/api-rest-demo](https://github.com/ilizin/api-rest-demo)          |
-|       jpa-h2-demo       |           A CRUD Jpa/hibernate (h2) demo project           |           [https://github.com/ilizin/jpa-h2-demo](https://github.com/ilizin/jpa-h2-demo)             |
-| api-rest-with-jpa-demo  |    A CRUD API rest with Jpa/hibernate (h2) demo project    | [https://github.com/ilizin/api-rest-with-jpa-demo](https://github.com/ilizin/api-rest-with-jpa-demo) |
+|         Repository          |                        Description                         |                                                        Github link                                                         |
+|:---------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+|        api-rest-demo        | A demo project for setting up an api rest with Spring Boot |                     [https://github.com/ilizin/api-rest-demo](https://github.com/ilizin/api-rest-demo)                     |
+|         jpa-h2-demo         |           A CRUD Jpa/hibernate (h2) demo project           |                       [https://github.com/ilizin/jpa-h2-demo](https://github.com/ilizin/jpa-h2-demo)                       |
+|   api-rest-with-jpa-demo    |    A CRUD API rest with Jpa/hibernate (h2) demo project    |            [https://github.com/ilizin/api-rest-with-jpa-demo](https://github.com/ilizin/api-rest-with-jpa-demo)            |
+| api-rest-with-security-demo |       An API rest demo project with spring security        |             [https://github.com/ilizin/api-rest-with-security-demo](https://github.com/ilizin/api-rest-with-security-demo) |
