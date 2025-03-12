@@ -21,6 +21,7 @@
         <module>../jpa-h2-demo</module>
         <module>../api-rest-with-jpa-demo</module>
         <module>../api-rest-with-security-demo</module>
+        <module>../thymeleaf-demo</module>
     </modules>
 
 </project>
