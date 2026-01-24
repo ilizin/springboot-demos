@@ -35,7 +35,7 @@ public class SqrtEroneService implements SqrtService {
 }
 ```
  
-The repository is the parent project for several spring boot demo projects, they're summarized in the following table:
+This repository is the parent project for several spring boot demo projects which are summarized in the following table:
 
 |         Repository          |                        Description                         |                                                    Github link                                                    |
 |:---------------------------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
